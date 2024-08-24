@@ -1,2 +1,2 @@
-usuario:usuario1
-password:senha123
+admin:senha123
+user:password456
