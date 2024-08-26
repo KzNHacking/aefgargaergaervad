@@ -1,2 +1,1 @@
-jack
-jack1
+usuario:senha
